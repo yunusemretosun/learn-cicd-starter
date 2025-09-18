@@ -18,7 +18,4 @@ jobs:
         with:
           go-version: "1.25.1"
       - name: Update Go
-	uses: actions/update-go@v5
-	with:
-	  go-version: "1.25.2"
-        
+        run: go version 
