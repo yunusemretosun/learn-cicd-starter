@@ -58,7 +58,7 @@ func TestApiKeyAuthCases(t *testing.T) {
 		},
 		{
 			key:       "Authorization",
-			value:     "ApiKey ",
+			value:     "ApiKey xxxx",
 			expectErr: "invalid api key",
 		},
 		{
