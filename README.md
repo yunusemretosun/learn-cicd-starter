@@ -1,6 +1,6 @@
 #Emre's version of Notely app.
 
-![alt text goes here](https://github.com/yunusemretosun/actions/workflows/learn-cicd-starter/ci.yml/badge.svg)
+![tests](https://github.com/yunusemretosun/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 ## Local Development
 
